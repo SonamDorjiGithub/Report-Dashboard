@@ -9,7 +9,7 @@
 
 ## About Report Dashboard
 
-The MIS Reporting System is a web application developed with the Laravel framework that displays telecom service data, revenue, and user-related information. It is built using data extracted from Excel records maintained over 12 years and stored in a database, while also capturing real-time data from various nodes using multiple methods. I worked as a Full Stack Developer on this project, which is the most complex and largest I have undertaken individually.
+The MIS Reporting System is a web application developed with the Laravel framework that displays telecom service data, revenue, and user-related information. It is built using data extracted from Excel records maintained over 12 years and stored in a database, while also capturing real-time data from various nodes using multiple methods. I worked as a Full Stack Developer on this project, the most complex and largest I have undertaken, while collaborating closely with a cross-functional team of systems experts, network specialists, and a system engineer to ensure seamless integration and success.
 
 Recognizing the benefits, flexibility, and the ability to generate reports tailored precisely to management and staff needs through this system, my company chose to discontinue renewing the license and AMC for the existing Telecom Data Analyst system provided by the vendor, resulting in substantial cost savings of thousands of dollars.
 
